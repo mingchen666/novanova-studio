@@ -1,4 +1,4 @@
-<p align="right"><b>简体中文</b> · <a href="README.en.md">English</a></p>
+al<p align="right"><b>简体中文</b> · <a href="README.en.md">English</a></p>
 
 <p align="center">
   <img src="logo/novanovastudio.png" width="128" alt="Novanova Studio logo">
